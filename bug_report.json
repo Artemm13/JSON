@@ -1,1 +1,21 @@
-
+{
+  "id": 111,
+  "summary": "The filter is not reset when the 'Filter reset' button is pressed",
+  "steps": [
+    "1. Go to exe.ua",
+    "2. In the catalog, select the category 'PC components', 'Video cards'",
+    "3. Filtering goods by 'graphic chip'. Choose from the list RTX 3060 Ti",
+    "4. Press the 'Filter products' button",
+    "5. Press the 'Filter reset' button",
+  ]
+  "expected_result": "The filter is reset",
+  "actual_result": "The filter is not reset",
+  "severity": "Low",
+  "priority": "Medium",
+  "type": "Functional",
+  "assigned": "Artem M",
+  "state": "Open",
+  "date_of_creation": "01-11-2022",
+  "environment": "Windows 10, Chrome 106.0.5249.119",
+  "attachment": "https://...",
+}
