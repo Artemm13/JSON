@@ -50,7 +50,6 @@
                 vim skills.json
 {
   "skills": [
-
     "Linux terminal",
     "GitHub",
     "Postman",
@@ -78,7 +77,6 @@
   "id": 111,
   "summary": "The filter is not reset when the 'Filter reset' button is pressed",
   "steps": [
-
     "1. Go to exe.ua",
     "2. In the catalog, select the category 'PC components', 'Video cards'",
     "3. Filtering goods by 'graphic chip'. Choose from the list RTX 3060 Ti",
